@@ -4,7 +4,7 @@
 #	Technically, no 'making' occurs, since it's just a shell script, but
 #	let us not quibble over trivialities such as these.
 ################################################################################
-PREFIX=/usr
+PREFIX=/usr/local
 SRC=src
 SRCFILE=cheat.sh
 DESTFILE=cheat
